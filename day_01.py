@@ -1,4 +1,4 @@
-digits = [int(x) for x in open('inputs/p01-input.txt', 'r').read().strip()]
+digits = [int(x) for x in open('inputs/d01-input.txt', 'r').read().strip()]
 
 
 def calc(step):
